@@ -1,0 +1,4 @@
+package avtobaza
+
+class Dispetcher {
+}

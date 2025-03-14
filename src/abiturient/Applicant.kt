@@ -1,0 +1,4 @@
+package abiturient
+
+class applicant {
+}

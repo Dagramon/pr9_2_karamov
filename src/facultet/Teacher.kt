@@ -1,0 +1,4 @@
+package facultet
+
+class Teacher {
+}
